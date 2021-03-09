@@ -11,7 +11,7 @@ public class TesztReader {
 
         while ((line = reader.readLine()) != null) {
             content.append(line);
-            content.append(System.lineSeparator() ); //xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+            content.append(System.lineSeparator() ); //xxxxxxxxxxxxxxxxx
         }
 
         System.out.println(content);
