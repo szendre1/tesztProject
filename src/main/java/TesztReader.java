@@ -14,7 +14,7 @@ public class TesztReader {
             content.append(System.lineSeparator());
         }
 
-        System.out.println(content);
+        System.out.println(content)  ;
         return content.toString();
     }
 
